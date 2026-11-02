@@ -17,4 +17,4 @@ This repository provides the trained model, reference measurements, and a subset
 
 `YOSO_Data.zip` contains the reference radio map and six trajectories: three from the main test set and three from the Wi-Fi AP-relocation experiment. Each trajectory includes Wi-Fi, CS, and IMU observations, position ground truth, Full predictions, and initialization metadata. AP and anchor identifiers are anonymous; all timestamps are relative to the segment start. `index.csv` lists the selected trajectories and their errors.
 
-Complete experimental results: [PDF](YOSO_Complete_Results.pdf) and [table archive](YOSO_Result_Tables.zip).
+Complete experimental results: [Download PDF and result tables (ZIP)](YOSO_Result_Tables.zip).
